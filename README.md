@@ -42,7 +42,31 @@ Create new invoices with multiple products and auto-calculated totals.
 
 ---
 
+###🔮 Future Updates / Roadmap
+This project lays the groundwork for a more advanced operations management suite. Planned features and enhancements include:
+
+📦 Intelligent Logistics Optimization
+Leverage predictive analytics and machine learning models to forecast demand, optimize stock levels, and reduce holding costs — transforming it into a lightweight SCM (Supply Chain Management) tool.
+
+📊 Business Intelligence Dashboards
+Integrate real-time analytics and KPI tracking to provide data-driven decision support for small business owners.
+
+🔐 Role-Based Access & Multi-User Support
+Secure the platform with user authentication and fine-grained role controls for staff, managers, and administrators.
+
+📤 Cloud Sync & Remote Access
+Enable multi-device synchronization and access via RESTful APIs or Firebase integration.
+
+🧠 AI-Powered Invoice Insights
+Use NLP and ML to parse, categorize, and provide trends or anomaly detection in customer invoices.
+
+---
+
+###🤝 Contributing
+Pull requests are welcome! If you'd like to add new features, fix bugs, or enhance the UI, feel free to fork the repository and open a PR.
 ## 🛠️ Tech Stack
+
+---
 
 - **Language:** Python  
 - **GUI Framework:** Tkinter  

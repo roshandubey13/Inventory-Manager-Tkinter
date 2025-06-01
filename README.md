@@ -1,13 +1,12 @@
 # 🧾 Inventory Manager - Tkinter Desktop Application
 
-## 📌 Project Overview  
 **Inventory Manager** is a minimal and user-friendly desktop application designed for small shops and retail setups to handle daily inventory and billing tasks with ease. Developed using Python's `Tkinter` library, this lightweight tool helps streamline inventory control, invoice generation, and product management in a clean, intuitive interface.
 
 ---
 
 ## ✨ Features
 
-- **🏠 Home Dashboard** – Quick access to all major modules  
+- **🏠 Home Dashboard** – Quick access to all modules, makes it easy to use
 - **📦 Product Management** – Add, update, delete, and search for products  
 - **🧾 Invoice Management** – View and manage invoices with customer info and totals  
 - **🖨️ Invoice Generator** – Auto-calculate totals for multiple products per invoice  
@@ -19,7 +18,8 @@
 ## 🖼️ Screenshots
 
 ### 🏠 Home Dashboard  
-Quickly navigate between core modules from a centralized dashboard.  
+Quickly navigate between core modules from a centralized dashboard.
+🟠 Looks familiar? Let’s just say this dashboard is *"inspired by popular interfaces"* — built for performance, just like… your favorite streaming site. 😉  
 ![Home Screen](https://github.com/user-attachments/assets/f71d4b82-ac29-4df2-9e40-7a5dc6493540)
 
 ---
@@ -46,8 +46,8 @@ Create new invoices with multiple products and auto-calculated totals.
 
 - **Language:** Python  
 - **GUI Framework:** Tkinter  
-- **Storage:** Local file-based (can be upgraded to SQLite or other DBs)  
-- **OS Compatibility:** Windows, macOS, Linux (Python installed required)
+- **Storage:** Local file-based SQLite DB
+- **OS Compatibility:** Windows, macOS, Linux
 
 ---
 
@@ -55,5 +55,6 @@ Create new invoices with multiple products and auto-calculated totals.
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/inventory-manager.git
+   git clone https://github.com/roshandubey13/inventory-manager.git
    cd inventory-manager
+   python main.py

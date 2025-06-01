@@ -42,31 +42,34 @@ Create new invoices with multiple products and auto-calculated totals.
 
 ---
 
-###🔮 Future Updates / Roadmap
-This project lays the groundwork for a more advanced operations management suite. Planned features and enhancements include:
+## 🔮 Future Updates / Roadmap
 
-📦 Intelligent Logistics Optimization
-Leverage predictive analytics and machine learning models to forecast demand, optimize stock levels, and reduce holding costs — transforming it into a lightweight SCM (Supply Chain Management) tool.
+This project lays the groundwork for a more advanced operations management suite (SAP knockoff lol...).
+Planned features and enhancements include:
 
-📊 Business Intelligence Dashboards
-Integrate real-time analytics and KPI tracking to provide data-driven decision support for small business owners.
+- **📦 Intelligent Logistics Optimization**  
+  Leverage predictive analytics and machine learning models to forecast demand, optimize stock levels, and reduce holding costs — transforming it into a lightweight SCM (Supply Chain Management) tool.
 
-🔐 Role-Based Access & Multi-User Support
-Secure the platform with user authentication and fine-grained role controls for staff, managers, and administrators.
+- **📊 Business Intelligence Dashboards**  
+  Integrate real-time analytics and KPI tracking to provide data-driven decision support for small business owners.
 
-📤 Cloud Sync & Remote Access
-Enable multi-device synchronization and access via RESTful APIs or Firebase integration.
+- **🔐 Role-Based Access & Multi-User Support**  
+  Secure the platform with user authentication and fine-grained role controls for staff, managers, and administrators.
 
-🧠 AI-Powered Invoice Insights
-Use NLP and ML to parse, categorize, and provide trends or anomaly detection in customer invoices.
+- **📤 Cloud Sync & Remote Access**  
+  Enable multi-device synchronization and access via RESTful APIs or Firebase integration.
+
+> 🧠 These updates aim to future-proof the application by blending automation, intelligence, and scalability — taking it from a desktop tool to a business-critical solution.
 
 ---
 
-###🤝 Contributing
+## 🤝 Contributing
+
 Pull requests are welcome! If you'd like to add new features, fix bugs, or enhance the UI, feel free to fork the repository and open a PR.
-## 🛠️ Tech Stack
 
 ---
+
+## 🛠️ Tech Stack
 
 - **Language:** Python  
 - **GUI Framework:** Tkinter  
@@ -75,7 +78,7 @@ Pull requests are welcome! If you'd like to add new features, fix bugs, or enhan
 
 ---
 
-## To run Local deployment
+## 🚀 Local Deployment
 
 1. **Clone the Repository**
    ```bash

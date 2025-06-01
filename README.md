@@ -82,6 +82,6 @@ Pull requests are welcome! If you'd like to add new features, fix bugs, or enhan
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/roshandubey13/inventory-manager.git
+   git clone https://github.com/roshandubey13/Inventory-Manager-Tkinter/tree/main
    cd inventory-manager
    python main.py
